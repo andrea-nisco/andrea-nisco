@@ -15,13 +15,17 @@ These projects allow me to hone my skills in software design and development fur
 
 ## 🛠 Skills and Technologies
 #### Expertise in Languages: 
-* <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="30" height="30" style="vertical-align: middle;"> Python
+* #### Python
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="30" height="30" style="vertical-align: middle;">
   
-* <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" width="30" height="30" style="vertical-align: middle;"> Go
+* #### Go
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" width="30" height="30" style="vertical-align: middle;">
   
-* <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" width="30" height="30" style="vertical-align: middle;"> Java
+* #### Java
+<img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" width="30" height="30" style="vertical-align: middle;">
   
-* <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" width="30" height="30" style="vertical-align: middle;"> C#
+* #### C#
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" width="30" height="30" style="vertical-align: middle;"> 
 
 
 #### I have also studied and practiced: 
