@@ -16,7 +16,7 @@ These projects allow me to hone my skills in software design and development fur
 ## 🛠 Skills and Technologies
 #### Expertise in Languages: 
 * #### Python
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="40" height="40" style="padding-left: 10px;">
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="40" height="40" style="padding-right:25px;">
   
 * #### Go
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" width="40" height="40">
