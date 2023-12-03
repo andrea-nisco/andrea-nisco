@@ -14,10 +14,14 @@ Creating a video game using Unity.
 These projects allow me to hone my skills in software design and development further.
 
 ## 🛠 Skills and Technologies
-Expertise in Languages: Python, Go, Java, C#.
-Familiarity with Technologies: Shell, Docker, C, R, Ruby, HTML, CSS, JavaScript, Kotlin, Swift, MongoDB, MySQL, Postgres.
-Highlighted Language: Prolog - a language that has notably intrigued me.
-Teamwork & Leadership: Proficient in team collaboration and management, with a keen sense of overall project vision and taking initiative in group settings.
+### Expertise in Languages: 
+Python, Go, Java, C#.
+### Familiarity with Technologies: 
+Shell, Docker, C, R, Ruby, HTML, CSS, JavaScript, Kotlin, Swift, MongoDB, MySQL, Postgres.
+### Highlighted Language: 
+Prolog - a language that has notably intrigued me.
+### Teamwork & Leadership: 
+Proficient in team collaboration and management, with a keen sense of overall project vision and taking initiative in group settings.
 ## 🎓 Academic Contributions
 During my university tenure, I contributed to several notable projects:
 
