@@ -25,6 +25,7 @@ These projects allow me to hone my skills in software design and development fur
 * Prolog - a language that has notably intrigued me.
 #### Teamwork & Leadership: 
 * Proficient in team collaboration and management, with a keen sense of overall project vision and taking initiative in group settings.
+
 ## 🎓 Academic Contributions
 #### During my university tenure, I contributed to several notable projects:
 
@@ -32,8 +33,10 @@ These projects allow me to hone my skills in software design and development fur
 * A card game for iOS.
 * Hospital critical data management software.
 * Development work on the Pynq z2 embedded board, focusing on implementing a Laplacian filter—a challenging yet fascinating project.
+
 ## 📄 LinkedIn
-For a detailed view of my projects and career progression, visit my LinkedIn Profile.
+
+Per saperne di più sul mio percorso professionale, visita il mio [Profilo LinkedIn di Andrea Nisco](https://www.linkedin.com/in/andrea-n-217612137/).
 
 ## 📫 Contact Me
 Feel free to reach out to me for collaborations or inquiries at andreanisco@gmail.com.
