@@ -15,10 +15,11 @@ These projects allow me to hone my skills in software design and development fur
 
 ## 🛠 Skills and Technologies
 #### Expertise in Languages: 
-* Python
-* Go
-* Java
-* C#
+* ![Python Logo](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg) Python
+* ![Go Logo](https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg) Go
+* ![Java Logo](https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg) Java
+* ![C# Logo](https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png) C#
+
 #### I have also studied and practiced: 
 * Shell, Docker, C, R, Ruby, HTML, CSS, JavaScript, Kotlin, Swift, MongoDB, MySQL, Postgres.
 #### Highlighted Language: 
