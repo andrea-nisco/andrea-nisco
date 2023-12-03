@@ -19,31 +19,19 @@ These projects allow me to hone my skills in software design and development fur
 * Go
 * Java
 * C#
-#### Familiarity with Technologies: 
-* Shell
-* Docker
-* C
-* R
-* Ruby
-* HTML
-* CSS
-* JavaScript
-* Kotlin
-* Swift
-* MongoDB
-* MySQL
-* Postgres.
+#### I have also studied and practiced: 
+* Shell, Docker, C, R, Ruby, HTML, CSS, JavaScript, Kotlin, Swift, MongoDB, MySQL, Postgres.
 #### Highlighted Language: 
 * Prolog - a language that has notably intrigued me.
 #### Teamwork & Leadership: 
-Proficient in team collaboration and management, with a keen sense of overall project vision and taking initiative in group settings.
+* Proficient in team collaboration and management, with a keen sense of overall project vision and taking initiative in group settings.
 ## 🎓 Academic Contributions
-During my university tenure, I contributed to several notable projects:
+#### During my university tenure, I contributed to several notable projects:
 
-An Android social network application.
-A card game for iOS.
-Hospital blood component management software.
-Development work on the Pynq z2 embedded board, focusing on implementing a Laplacian filter—a challenging yet fascinating project.
+* An Android social network application.
+* A card game for iOS.
+* Hospital critical data management software.
+* Development work on the Pynq z2 embedded board, focusing on implementing a Laplacian filter—a challenging yet fascinating project.
 ## 📄 LinkedIn
 For a detailed view of my projects and career progression, visit my LinkedIn Profile.
 
