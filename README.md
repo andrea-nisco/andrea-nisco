@@ -1,7 +1,7 @@
 # Andrea Nisco - Software Engineer
 
 ## 👋 About Me
-Hello! I'm Andrea, a 24-year-old software engineering master's student at the Alma Mater Studiorum - University of Bologna, currently based in Bologna, with a bachelor's degree from the University of Benevento (Università del Sannio). I am currently engaged in various projects, focusing on areas such as cybersecurity solutions, mobile app development, and videogame creation.
+Hello! I'm Andrea, a 24-year-old software engineering master's student at the Alma Mater Studiorum - University of Bologna, with a bachelor's degree from the University of Benevento (Università del Sannio). I am currently engaged in various projects, focusing on areas such as cybersecurity solutions, mobile app development, and videogame creation.
 
 ## 🚀 Last Project: Deception Generator Component
 This is a sophisticated system designed to create dummy data for deceiving cyber attacks. This project, incorporates technologies like Docker, Postgres, and Keycloak on a Linux platform.
