@@ -1,17 +1,16 @@
 # Andrea Nisco - Software Engineer
 
 ## 👋 About Me
-Hello! I'm Andrea, a 24-year-old software engineering master's student at the Alma Mater Studiorum - University of Bologna, with a bachelor's degree from the University of Benevento (Università del Sannio). My passion for technology drives me to explore diverse projects, ranging from cybersecurity solutions to mobile app and game development. When I'm not coding, you'll find me enjoying video games, spending time with my cats, or savoring a good cup of coffee.
+Hello! I'm Andrea, a 24-year-old software engineering master's student at the Alma Mater Studiorum - University of Bologna, with a bachelor's degree from the University of Benevento (Università del Sannio). I am currently working on several areas, including cybersecurity solutions, mobile app and game development.
 
-## 🚀 Current Project: Deception Generator Component
-My primary focus is on the "Deception Generator Component," a sophisticated system designed to create dummy data for deceiving cyber attacks. This project, pivotal in my career, incorporates technologies like Docker, Postgres, and Keycloak on a Linux platform. It epitomizes my ability to innovate in the realm of cybersecurity.
+## 🚀 Last Project: Deception Generator Component
+This is a sophisticated system designed to create dummy data for deceiving cyber attacks. This project, incorporates technologies like Docker, Postgres, and Keycloak on a Linux platform.
 
 ## 💡 Other Projects
 I'm also actively involved in two personal projects:
 
 Developing a mobile application.
 Creating a video game using Unity.
-These projects allow me to hone my skills in software design and development further.
 
 ## 🛠 Skills and Technologies
 #### Expertise in Languages: 
@@ -36,11 +35,11 @@ These projects allow me to hone my skills in software design and development fur
 * An Android social network application.
 * A card game for iOS.
 * Hospital critical data management software.
-* Development work on the Pynq z2 embedded board, focusing on implementing a Laplacian filter—a challenging yet fascinating project.
+* Development work on the Pynq z2 embedded board, focusing on implementing a Laplacian filter. A challenging yet fascinating project.
 
 ## 📄 LinkedIn
 
-Per saperne di più sul mio percorso professionale, visita il mio [Profilo LinkedIn di Andrea Nisco](https://www.linkedin.com/in/andrea-n-217612137/).
+If you want to know more about me, visit my LinkedIn profile: [Profilo LinkedIn di Andrea Nisco](https://www.linkedin.com/in/andrea-n-217612137/).
 
 ## 📫 Contact Me
 Feel free to reach out to me for collaborations or inquiries at andreanisco@gmail.com.
